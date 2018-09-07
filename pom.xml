@@ -42,12 +42,12 @@
     <repository>
         <id>deploymentRepo</id>
         <name>51708afbf5e2-releases</name>
-        <url>http://13.127.67.19:8081/artifactory/rajesh</url>
+        <url>http://13.127.67.19:8081/artifactory/repo-Ravi</url>
     </repository>
     <snapshotRepository>
         <id>deploymentRepo</id>
         <name>51708afbf5e2-snapshots</name>
-        <url>http://13.127.67.19:8081/artifactory/rajesh</url>
+        <url>http://13.127.67.19:8081/artifactory/repo-Ravi</url>
     </snapshotRepository>
 </distributionManagement>
 
